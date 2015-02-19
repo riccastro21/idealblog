@@ -1,0 +1,2 @@
+# idealblog
+myrubyblog
